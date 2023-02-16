@@ -6,7 +6,7 @@
 
 - :boom: You can visit [MY WEBSITE](https://efraimportfolio.netlify.app/).
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles:
 
 <div align = "center" width = 100%>
   <a href="https://codeforces.com/profile/Efraim_Nabil"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
@@ -22,7 +22,7 @@
 	<a href="https://www.codingame.com/profile/ef2c86c37d1680b24973dc2e9dbe8b8f3559764" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
 </div>
 
-## 📫 How to reach me anywhere 
+## 📫 How to reach me:
 
 <p align="center">
 	<a href="mailto:efraimefefraim@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
