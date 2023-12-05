@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Efraim Nabil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "35"></h1>
 
 <p align="center"> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/efraimnabil" alt="Most Active Users" target="_blank" width=40%/> 
-	</a>
+	[![committers.top badge](https://user-badge.committers.top/egypt/efraimnabil.svg)](https://user-badge.committers.top/egypt/efraimnabil)
 	<img src="https://komarev.com/ghpvc/?username=efraimnabil&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="efraimnabil" width=14.40%/>
 </p>
 
