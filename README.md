@@ -14,7 +14,7 @@ I'm passionate about competitive programming and enjoy participating in various 
 
 ## Connect with Me 🌐
 
-- Check out [MY WEBSITE](#) for more about me and my projects. 🌐
+- Check out [MY WEBSITE](https://efraimnabil.github.io/Portfolio/) for more about me and my projects. 🌐
 - Explore my competitive programming profiles: [CodeForces](https://codeforces.com/profile/Efraim_Nabil) | [LeetCode](https://leetcode.com/Efraim_Nabil/) | [AtCoder](https://atcoder.jp/users/Efraim_Nabil) | [CodeChef](https://www.codechef.com/users/efraim_nabil) | [ICPC Global](https://icpc.global/ICPCID/8YHX1F47QRPQ) | [Codingame](https://www.codingame.com/profile/ef2c86c37d1680b24973dc2e9dbe8b8f3559764) 🚀
 - Feel free to reach out to me via [Gmail](mailto:efraimefefraim@gmail.com) or [LinkedIn](https://www.linkedin.com/in/efraimnabil/). 📫
 
