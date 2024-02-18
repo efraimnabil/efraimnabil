@@ -28,3 +28,9 @@ I'm currently seeking opportunities to work as a software engineer or front-end 
 
 I'm always open to collaboration opportunities, whether it's working on exciting projects or competing in coding contests. If you have any cool ideas or just want to chat, don't hesitate to get in touch! 💬
 
+
+<p align='center'>
+  
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=efraimnabil&layout=compact&theme=radical&langs_count=8">
+
+</p>
