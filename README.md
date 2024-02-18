@@ -4,10 +4,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=efraimnabil&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="efraimnabil" width=14.40%/>
 
-# Hi there, I'm Efraim Nabil! 👋
-
-Welcome to my GitHub profile! 🚀
-
 ## About Me 🌟
 
 I'm a final-year student at the Faculty of Computers & Informatics at Suez Canal University, Egypt. Currently, I'm delving deep into the world of front-end development, honing my skills in HTML, CSS, Sass, JavaScript, TypeScript, and React. 💻
