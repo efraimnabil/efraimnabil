@@ -8,6 +8,10 @@
 
 I'm a final-year student at the Faculty of Computers & Informatics at Suez Canal University, Egypt. Currently, I'm delving deep into the world of front-end development, honing my skills in HTML, CSS, Sass, JavaScript, TypeScript, and React. 💻
 
+## Skills
+
+My favorite skills are C++, JavaScript, TypeScript, React.js, and Tailwind CSS, but I’m not limited by them.
+
 ## Competitive Programming Enthusiast 💡
 
 I'm passionate about competitive programming and enjoy participating in various coding competitions such as Codeforces, Atcoder, LeetCode, CodeChef, and Google Contests. As an ECPC (Egyptian Collegiate Programming Contest) finalist, I'm always seeking new challenges to tackle and problems to solve. 🏆
